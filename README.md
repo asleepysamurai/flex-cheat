@@ -18,14 +18,14 @@ Yes, that's all there is to it. However, do not mistake the simplicity for impot
 - Fixed Width Row: ![Fixed Width Row](/img/row.png)
 - Equal Width Row: ![Equal Width Row](/img/row-equal-width.png)
 - Mixed Width Row: ![Mixed Width Row](/img/row-mix-width.png)
-- Fixed Centered Row: ![Fixed Centered Row](/img/row-center.png)
-- Fixed Centered With Mixed Width Row: ![Fixed Centered With Mixed Width Row](/img/row-mix-width-center.png)
+- Centered With Fixed Width Row: ![Centered With Fixed Width Row](/img/row-center.png)
+- Centered With Mixed Width Row: ![Centered With Mixed Width Row](/img/row-mix-width-center.png)
 - Fixed Height Column: ![Fixed Height Column](/img/column.png)
 - Equal Height Column: ![Equal Height Column](/img/column-equal-height.png)
 - Mixed Height Column: ![Mixed Height Column](/img/column-mix-height.png)
-- Fixed Centered Column: ![Fixed Centered Column](/img/column-center.png)
-- Fixed Centered With Mixed Height Column: ![Fixed Centered With Mixed Height Column](/img/column-mix-height-center.png)
-- Grid With Mixed Rows and Columns: ![Grid With Mixed Rows and Columns](/img/grid.html)
+- Centered With Fixed Height Column: ![Centered With Fixed Height Column](/img/column-center.png)
+- Centered With Mixed Height Column: ![Centered With Mixed Height Column](/img/column-mix-height-center.png)
+- Grid With Mixed Rows and Columns: ![Grid With Mixed Rows and Columns](/img/grid.png)
 
 The code for these examples can be found in the `examples` directory.
 
