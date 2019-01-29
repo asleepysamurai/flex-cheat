@@ -1,0 +1,9 @@
+{
+  "name": "flex-cheat",
+  "version": "0.0.1",
+  "description": "Easy cheat classes for common CSS flexbox layouts",
+  "main": "flex-cheat.css",
+  "repository": "git@github.com:asleepysamurai/flex-cheat.git",
+  "author": "Balaganesh Damodaran <asleepysamurai@gmail.com>",
+  "license": "MIT"
+}

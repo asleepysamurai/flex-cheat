@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+    width: 100vw;
+    height: 100vh;
+}
+
+div#parent {
+    border: 2px solid blue;
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+}
+
+div#parent>* {
+    border: 2px solid red;
+}
+
+div#parent>* .grandchild {
+    border: 2px solid green;
+}

@@ -1,0 +1,30 @@
+*.flex-container {
+    display: flex;
+}
+
+*.flex-container.inline {
+    display: inline-flex;
+}
+
+*.flex-container.column {
+    flex-direction: column;
+}
+
+*.flex-container.center {
+    align-items: center;
+    justify-content: unset;
+    text-align: center;
+}
+
+*.flex-container.column.center {
+    justify-content: center;
+    align-items: unset;
+}
+
+*.flex-container>* {
+    flex: 0 0 auto;
+}
+
+*.flex-container>*.flex-rest {
+    flex: 1 1 auto;
+}
